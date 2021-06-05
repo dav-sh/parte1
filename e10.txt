@@ -1,0 +1,10 @@
+Algoritmo porcentaje
+
+Inicio
+ Escribir "Ingrese la base: "
+ Leer A
+ Escribir "Ingrese la altura: "
+ Leer B
+ C = A*B
+ Escribir "El area del rectangulo es: ", C 
+FinAlgoritmo

@@ -1,0 +1,8 @@
+Algoritmo Temperatura
+
+Inicio
+ Escribir "Ingrese la temperatura en grados Celsius: "
+ Leer c
+ f = c*1.8 + 32
+ Escribir "Temperatura en grados Farenheit: ", f
+FinAlgoritmos

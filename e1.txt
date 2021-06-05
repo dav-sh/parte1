@@ -1,0 +1,7 @@
+Algoritmo Suma
+
+Inicio
+ Leer n1,n2
+ sum = n1 + n2
+ Escribir "resultado de la suma: ", sum
+FinAlgoritmo

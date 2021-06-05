@@ -1,0 +1,10 @@
+Algoritmo operacion
+
+Inicio
+ Escribir "Ingrese el numero"
+ Leer n
+ doble = 2*n
+ triple = 3*n 
+ Escribir "el doble del numero ingresado es: ", doble
+ Escribir "el triple del numero ingresado es: ", triple
+FinAlgoritmo

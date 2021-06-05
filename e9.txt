@@ -1,0 +1,13 @@
+Algoritmo porcentaje
+
+Inicio
+ Escribir "Ingrese la palabra 1"
+ Leer A
+ Escribir "Ingrese la palabra 2"
+ Leer B
+ C = A
+ A = B
+ B = C
+ Escribir "Palabra 1: ", A 
+ Escribir "Palabra 1: ", B
+FinAlgoritmo

@@ -1,0 +1,16 @@
+Algoritmo porcentaje
+
+Inicio
+ Escribir "Ingrese un numero en centrimetros: "
+ Leer cm
+ yd = cm/91
+ mt = cm/100
+ ft = cm/30.48
+ in = cm/2.54
+ Escribir "Conversiones: "
+ Escribir "Centimetros: ", cm
+ Escribir "Yardas: ", yd
+ Escribir "Metros: ", mt
+ Escribir "Pies: ", , ft
+ Escribir "Pulgadas: ", in
+FinAlgoritmos

@@ -1,0 +1,9 @@
+Algoritmo porcentaje
+
+Inicio
+ Variable rnd
+ rnd = aleatorio(10,50)
+ Escribir "Numero aleatorio: ", rnd 
+ aumento =  rnd + 0.15*rnd
+ Escribir "numero aumentado en 15%", aumento
+FinAlgoritmo

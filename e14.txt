@@ -1,0 +1,14 @@
+Algoritmo e14
+Inicio
+ Escribir "Ingrese el numero 1:"
+ Leer n1
+ Escribir "Ingrese el numero 2:"
+ Leer n2
+ Mientras n1%n2 == 0 Hacer
+  Escribir "Ingrese el numero 1:"
+  Leer n1
+  Escribir "Ingrese el numero 2:"
+  Leer n2
+ FinMientras
+ Escribir "Es divisible"
+FinAlgoritmos

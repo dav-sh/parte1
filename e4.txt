@@ -1,0 +1,10 @@
+Algoritmo operacion
+
+Inicio
+ Escribir "Ingrese el numero"
+ Leer n
+ cuadrado = n**2
+ cubo = n**3 
+ Escribir "el cuadrado del numero ingresado es: ", cuadrado
+ Escribir "el cubo del numero ingresado es: ", cubo
+FinAlgoritmo

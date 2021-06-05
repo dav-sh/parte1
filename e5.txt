@@ -1,0 +1,8 @@
+Algoritmo operacion
+
+Inicio
+ Escribir "Ingrese el numero"
+ Leer n
+ siguiente = n+1 
+ Escribir "el siguiente numero es: ", siguiente
+FinAlgoritmo

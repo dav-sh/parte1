@@ -1,0 +1,18 @@
+Algoritmo cilindro
+
+Inicio
+ Escribir "Ingrese el radio del cilindro: "
+ Leer r
+ Mientras r<=0 Hacer
+  Escribir "Ingrese el radio del cilindro: "
+  Leer r
+ FinMientras
+ Escribir "Ingrese la altura del cilindro: "
+ Leer h 
+ Mientras h<=0 Hacer
+  Escribir "Ingrese la altura del cilindro: "
+  Leer h
+ FinMientras
+ v = pi*r**2*h
+ Escribir "El volumen del cilindro es: ", v
+FinAlgoritmos

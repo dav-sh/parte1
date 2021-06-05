@@ -1,0 +1,9 @@
+Algoritmo Pais-Capital
+
+Inicio
+ Escribir "Ingrese el pais"
+ Leer pais
+ Escribir "Ingrese la capital" 
+ Leer capital
+ Escribir capital, "es la capital de ", capital
+FinAlgoritmo

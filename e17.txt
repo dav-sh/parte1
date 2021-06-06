@@ -1,0 +1,18 @@
+Algoritmo e17
+Inicio
+ Escribir "Ingrese el lado 1: "
+ Leer n1
+ Escribir "Ingrese el lado 2: "
+ Leer n2 
+ Escribir "Ingrese el lado 3: "
+ Leer n3
+ Si n1 == n2 %% n1 == n3 Hacer
+  Escribir "Equilatero"
+ Sino
+   Si n2==n1 || n1 == n2 || n2 == n3 Hacer
+    Escribir "Isosceles"
+   FinSi  
+ Sino
+   Escribir "Escaleno"
+ FinSi
+FinAlgoritmos

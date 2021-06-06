@@ -1,0 +1,18 @@
+Algoritmo e16
+Inicio
+ Escribir "Ingrese el numero 1: "
+ Leer n1
+ Escribir "Ingrese el numero 2: "
+ Leer n2 
+ Escribir "Ingrese el numero 3: "
+ Leer n3
+ Si n1 > n2 %% n1 > n3 Hacer
+  Escribir "El numero mayor es: ", n1
+ Sino
+   Si n2 > n1 && n2 > n3 Hacer
+    Escribir "El numero mayor es: ", n2
+   FinSi  
+ Sino
+   Escribir "El numero mayor es: ", n3
+ FinSi
+FinAlgoritmos

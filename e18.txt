@@ -1,0 +1,36 @@
+Algoritmo e18
+Inicio
+ Escribir "Ingrese el numero: "
+ Leer n
+ mientras n <= 9999 && n >=0 Hacer
+  si n<=9
+   n = n/1
+   d1 =0
+   d2 =0
+   d3 =0
+   d4 =n
+  Sino
+   Si n<=99
+    n =n/1
+    d1=0
+    d2=0
+    d3 = substring(n,0,0)
+    d4 = substring(n,1,1)
+   Finsi
+  Sino
+   Si n<=999
+    n =n/1
+    d1=0
+    d2 = substring(n,0,0)
+    d3 = substring(n,1,1)
+    d4 = substring(n,2,2)
+   FinSi
+  Sino
+   d1 = substring(n,0,0)
+   d2 = substring(n,1,1)
+   d3 = substring(n,2,2)
+   d4 = substring(n,3,3)
+  Finsi
+FinSi  
+Escribir "d1 ",d1,"d2 ",d2,"d3 ",d3,"d4 ",d4
+FinAlgoritmos

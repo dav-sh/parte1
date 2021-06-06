@@ -1,0 +1,7 @@
+Algoritmo e19
+Inicio
+ N = aleatorio(1,1000)
+ Si N%5 == 0 && N<=125
+  Escribir "Mostrar N: ", N
+ Finsi
+FinAlgoritmos

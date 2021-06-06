@@ -1,0 +1,14 @@
+Algoritmo e14
+Inicio
+ Escribir "Ingrese el numero: "
+ Leer n
+ Si n == 0 Hacer
+  Escribir "El numero es nulo"
+ Sino
+   Si n > 0 Hacer
+    Escribir "El numero es positivo"
+   FinSi
+ Sino
+  Escribir "El numero es negativo"
+ FinSi
+FinAlgoritmos

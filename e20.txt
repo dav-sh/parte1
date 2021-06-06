@@ -1,0 +1,21 @@
+Algoritmo e20
+
+Inicio
+ Leer n
+ Si n<=99999 && n >=0
+  d5 = n/10000
+  r5 = n - d5*1000
+  d4 = r5/1000
+  r4 = r5 - d4*1000
+  d3 = r4/100
+  r3 = r4 - d3*100
+  d2 = r3/10
+  d1 = r3-d2*10
+  n2 = d1*10000 + d2*1000 + d3*100 + d4*10 + d5
+  Si n2 == n
+   Escribir "Es capicua"
+  Sino
+   Escribir "No es capicua"
+  Finsi
+ Finsi
+FinAlgoritmo

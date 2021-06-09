@@ -5,7 +5,6 @@ public class Exercise4{
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number: ");
         int number = scanner.nextInt();
-        double x = number;
         double squared = Math.pow(number, 2);
         double cubed = Math.pow(number, 3);
         System.out.println("The number raised 2 power is: "+squared);
